@@ -24,8 +24,11 @@ This project showcases a complete travel booking platform with an intuitive user
 ## 🌐 Live Preview
 
 > You can host this project on [ Website Demo ](https://travel-booking-landing-page.netlify.app) and place the link here.
+> ![Project Cover Photo](https://github.com/asaduzzaman-rahim/Travel-Booking-Landing-Page-B-5-/blob/main/Travel-Booking-Landing-Page.png)
 
 ---
+
+
 
 
 ## 🛠️ Tech Stack
