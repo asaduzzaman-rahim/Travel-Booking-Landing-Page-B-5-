@@ -18,6 +18,16 @@ This project showcases a complete travel booking platform with an intuitive user
 - 🔗 **Complete Footer** - Comprehensive footer with links and information
 - ⚡ **Performance Optimized** - Minified CSS  files
 
+
+---
+
+## 🌐 Live Preview
+
+> You can host this project on [ Website Demo ](https://travel-booking-landing-page.netlify.app) and place the link here.
+
+---
+
+
 ## 🛠️ Tech Stack
 
 | Technology | Purpose |
